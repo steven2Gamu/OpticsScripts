@@ -1,0 +1,2 @@
+myFun()
+clear myFun
